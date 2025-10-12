@@ -5,7 +5,7 @@ The Lazy386 kernel is a lightweight monolithic kernel coded in Turbowarp, meant 
  - Easy to understand user interface
  - Command-line interface
 # Development progress<br>
-Lazy386 is currently in alpha stage, meaning not all features are implemented yet. Roadmap:
+Lazy386 is currently in alpha stage, meaning not all features are implemented yet. Roadmap:<br>
  ☑ Working GUI<br>
  ☐ Working CLI<br>
  ☐ Time format support<br>
