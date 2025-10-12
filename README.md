@@ -22,4 +22,4 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  ⬜️ Sudo<br>
  ⬜️ OOBE<br>
  ⬜️ Terminal GUI<br>
- You may test the kernel [here](https://turbowarp.org/?project_url=raw.githubusercontent.com/khanhsers/lazy386-kernel/main/Lazy386.sb3).
+ You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/lazy386-kernel/main/Lazy386.sb3).
