@@ -16,6 +16,9 @@ Here are the required system specs in order for Lazy386 to smoothly run:
 # 🔨 Development progress<br>
 Lazy386 is currently in alpha stage, meaning not all features are implemented yet. Roadmap:<br>
  ✅ Working GUI<br>
+ ✅ Status bar<br>
+ ✅ About<br>
+ ✅ Dice<br>
  ⬜️ Working CLI<br>
  ⬜️ Filer<br>
  ⬜️ Settings<br>
