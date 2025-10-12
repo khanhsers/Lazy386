@@ -6,11 +6,11 @@ The Lazy386 kernel is a lightweight monolithic kernel coded in Turbowarp, meant 
  - Command-line interface
 # Development progress<br>
 Lazy386 is currently in alpha stage, meaning not all features are implemented yet. Roadmap:
- ☑ Working GUI
- ☐ Working CLI
- ☐ Time format support
- ☐ File manager CLI
- ☐ File manager GUI
- ☐ Settings GUI
- ☐ Sudo
- ☐ Terminal GUI
+ ☑ Working GUI<br>
+ ☐ Working CLI<br>
+ ☐ Time format support<br>
+ ☐ File manager CLI<br>
+ ☐ File manager GUI<br>
+ ☐ Settings GUI<br>
+ ☐ Sudo<br>
+ ☐ Terminal GUI<br>
