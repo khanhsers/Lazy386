@@ -18,11 +18,10 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  ✅ Working GUI<br>
  ⬜️ Working CLI<br>
  ⬜️ Time format support<br>
- ⬜️ File manager CLI<br>
- ⬜️ File manager GUI<br>
- ⬜️ Settings GUI<br>
+ ⬜️ File manager<br>
+ ⬜️ Settings<br>
  ⬜️ Sudo<br>
  ⬜️ OOBE<br>
- ⬜️ Terminal GUI<br>
+ ⬜️ Terminal<br>
  You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/Lazy386/main/Lazy386.sb3).
  <!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
