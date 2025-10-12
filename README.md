@@ -17,11 +17,12 @@ Here are the required system specs in order for Lazy386 to smoothly run:
 Lazy386 is currently in alpha stage, meaning not all features are implemented yet. Roadmap:<br>
  ✅ Working GUI<br>
  ⬜️ Working CLI<br>
- ⬜️ Time format support<br>
- ⬜️ File manager<br>
+ ⬜️ Filer<br>
  ⬜️ Settings<br>
- ⬜️ Sudo<br>
- ⬜️ OOBE<br>
  ⬜️ Terminal<br>
+ ⬜️ Music app<br>
+ ⬜️ Notes app<br>
+ ⬜️ Translate app<br>
+ ⬜️ OOBE<br>
  You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/Lazy386/main/Lazy386.sb3).
  <!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
