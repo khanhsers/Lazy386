@@ -51,8 +51,10 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  <!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
 # 📝 Changelog
 ### v0.4.5 (ALPHA, 13/10/2025)
- - New command "fortune"
- - New command "echo" (syntax: "~$ echo Hello world!")
+ - New command "fortune" (random fun quotes)
+ - New command "echo" (prints text, syntax: "~$ echo Hello world!")
+ - New command "trim" (trims whitespace, syntax: ~$ trim Hello world!")
+ - New command "rev" (reverses text, syntax:~$ rev Hello world!")
 ### v0.4 (ALPHA, 13/10/2025)
  - Added Terminal
  - New command "time"
