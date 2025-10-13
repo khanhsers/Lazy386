@@ -26,6 +26,6 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  ⬜️ Music app<br>
  ⬜️ Notes app<br>
  ⬜️ Translate app<br>
- ⬜️ OOBE<br>
+ ✅ OOBE (a more complete OOBE will be created after completion of development of other features)<br>
  You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/Lazy386/main/Lazy386.sb3).
  <!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
