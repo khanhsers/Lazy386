@@ -50,6 +50,9 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/Lazy386/main/Lazy386.sb3).
  <!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
 # 📝 Changelog
+### v0.4.5 (ALPHA, 13/10/2025)
+ - New command "fortune"
+ - New command "echo" (syntax: "~$ echo Hello world!")
 ### v0.4 (ALPHA, 13/10/2025)
  - Added Terminal
  - New command "time"
