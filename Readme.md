@@ -1,5 +1,5 @@
 # 🧩 Lazy386 kernel<br>
-![The Lazy386 desktop](desktop.png)<br>
+![The Lazy386 desktop](images/desktop.png)<br>
 The Lazy386 kernel is a lightweight monolithic kernel coded in Turbowarp, meant to rival [Micro Consen](https://scratch.mit.edu/discuss/topic/695370/). You can modify this kernel in order to create your own operating system. It is open source, meaning everyone can view and contribute to it. It features:
  - Working [rxFS](https://turbowarp.org/editor?extension=https://extensions.turbowarp.org/0832/rxFS2.js) filesystem
  - Optimized for low-end devices
@@ -22,7 +22,7 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  ⬜️ Working CLI<br>
  ⬜️ Filer<br>
  ⬜️ Settings<br>
- ⬜️ Terminal<br>
+ ✅ Terminal<br>
  ⬜️ Music app<br>
  ⬜️ Notes app<br>
  ⬜️ Translate app<br>
