@@ -35,6 +35,8 @@ Here are the required system specs in order for Lazy386 to smoothly run:
  - Mouse and keyboard
 # 🔨 Development progress<br>
 Lazy386 is currently in alpha stage, meaning not all features are implemented yet. Roadmap:<br>
+You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/Lazy386/main/Lazy386.sb3).
+<!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
  - ✅ Working GUI<br>
  - ✅ Status bar<br>
  - ✅ About<br>
@@ -47,34 +49,32 @@ Lazy386 is currently in alpha stage, meaning not all features are implemented ye
  - ⬜️ Notes app<br>
  - ⬜️ Translate app<br>
  - ✅ OOBE (a more complete OOBE will be created after completion of development of other features)<br>
- You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/khanhsers/Lazy386/main/Lazy386.sb3).
- <!-- sb3 to turbowarp link format: https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/(path-to-file) -->
 # 📝 Changelog
-### v0.6 (ALPHA, 15/10/2025)
+## v0.6 (ALPHA, 15/10/2025)
  - CLI login added
  - GUI login added
  - New OOBE stage for setting password
-### v0.5 (ALPHA, 13/10/2025)
+## v0.5 (ALPHA, 13/10/2025)
  - New command "fortune" (random fun quotes)
  - New command "echo" (prints text, syntax: "~$ echo Hello world!")
  - New command "trim" (trims whitespace, syntax: ~$ trim Hello world!")
  - New command "rev" (reverses text, syntax:~$ rev Hello world!")
  - OOBE bug fixes
  - Small UI changes
-### v0.4 (ALPHA, 13/10/2025)
+## v0.4 (ALPHA, 13/10/2025)
  - Added Terminal
  - New command "time"
  - Bug fixes (a lot)
  - Performance increases and code optimizations  
-### v0.3 (ALPHA, 13/10/2025)
+## v0.3 (ALPHA, 13/10/2025)
  - Added OOBE  
-### v0.2 (ALPHA, 12/10/2025)
+## v0.2 (ALPHA, 12/10/2025)
  - Added window system
  - About & Dice apps finished
  - Added boot menu
  - Added CLI environment
  - Added battery & network icon
  - Created wallpaper  
-### v0.1 (ALPHA, 12/10/2025)
+## v0.1 (ALPHA, 12/10/2025)
  - Added main status bar
  - Added Turbowarp checker
