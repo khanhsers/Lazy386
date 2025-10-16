@@ -50,6 +50,11 @@ You may test the kernel [here](https://turbowarp.org/fullscreen?project_url=raw.
  - ⬜️ Translate app<br>
  - ✅ OOBE (a more complete OOBE will be created after completion of development of other features)<br>
 # 📝 Changelog
+## v0.6.5 (ALPHA, 16/10/2025)
+ - Login GUI changes
+ - New status bar item: wakelock
+ - New command : passwd (changes password)
+ - New command: wakelock (toggles wakelock)
 ## v0.6 (ALPHA, 15/10/2025)
  - CLI login added
  - GUI login added
